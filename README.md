@@ -1,2 +1,2 @@
 # gorest
-some learning
+trying the rest api in golang
