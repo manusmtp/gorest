@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/manusmtp/cmd/http/handler"
-	"github.com/manusmtp/cmd/internal/container"
+	"github.com/manusmtp/gorest/cmd/http/handler"
+	"github.com/manusmtp/gorest/internal/container"
 )
 
 func main() {
